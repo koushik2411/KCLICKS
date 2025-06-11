@@ -64,6 +64,7 @@ section {
 .welcome {
     margin-top: 15px;
     padding: 8px;
+    font-size: 18px;
     background: transparent;
     color: wheat;
     border-radius: 4px;
@@ -73,6 +74,7 @@ section {
 
 #about {
     padding: 15px;
+    font-size: 18px;
     background: transparent;
     border-radius: 4px;
     text-align: justify;
@@ -126,6 +128,8 @@ p {
 button {
     width: 150px;
     height: 25px;
+    font-size: 18px;
+    font-weight: bold;
     border-radius: 4px;
     background-color: rgba(108, 106, 106, 0.1);
 }
